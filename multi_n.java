@@ -1,8 +1,11 @@
+import java.util.Scanner;
+
 public class multi_n {
     public static void main(String[] args) {
-        int n = 4;
-            for(int i=1;i<=10;i++){
-                System.out.printf("%dX%d=%d\n",n,i,n*i);
-            }
+        Gson file = new Gson();
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter your name: ");
+        String name = sc.next();
+        int password = file.pinput();
     }
 }
