@@ -6,8 +6,28 @@
 	},
 	{
 		"name":"Abhiyank",
-		"password":1325,
-		"ammount":8952.0
+		"password":4693,
+		"ammount":1000.0
+	},
+	{
+		"name":"Chirag",
+		"password":6064,
+		"ammount":1000.0
+	},
+	{
+		"name":"Ghgcv",
+		"password":6336,
+		"ammount":1000.0
+	},
+	{
+		"name":"Cls",
+		"password":2153,
+		"ammount":1000.0
+	},
+	{
+		"name":"Vaibhav",
+		"password":1136,
+		"ammount":1000.0
 	},{}
 
 ]
